@@ -11,3 +11,5 @@ The indicator that we are measuring here is the relationship between formal labo
 An example can be visualized below.
 
 ![](outputs/taxas_ambos_sexos.jpeg)
+
+![](outputs/pop_ocupada_idade_sexo.jpeg)
